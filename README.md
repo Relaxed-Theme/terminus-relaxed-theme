@@ -7,7 +7,7 @@
 ![](assets/screenshot.png)
 
 ## Install
-To install Relaxed for Terminus:
+To install Relaxed for [Terminus](https://github.com/Eugeny/terminus#readme):
 
 1. Go to Plugins in Settings.
 1. Install `terminus-relaxed-theme` in the available plugins and restart.
