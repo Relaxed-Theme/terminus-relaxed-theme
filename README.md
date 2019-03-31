@@ -2,7 +2,7 @@
 
 # Relaxed Theme for Terminus
 
-> A relaxed Terminus theme to take a more relaxed view of things. Also available for iTerm, Hyper, the macOS Terminal and a bunch of others.
+> A relaxed theme to take a more relaxed view of things. Also available for iTerm, Hyper, the macOS Terminal and a bunch of others.
 
 ![](assets/screenshot.png)
 
@@ -13,7 +13,7 @@ To install Relaxed for [Terminus](https://github.com/Eugeny/terminus#readme):
 1. Install `terminus-relaxed-theme` in the available plugins and restart.
 1. Select »Relaxed« in the Theme Dropdown menu.
 1. Go to Appearance in Settings.
-1. Select »Relaxed« in the Colornscheme Dropdown menu.
+1. Select »Relaxed« in the Colorscheme Dropdown menu.
 1. Enjoy.
 
 ## Related
